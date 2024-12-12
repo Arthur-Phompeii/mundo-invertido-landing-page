@@ -5,6 +5,8 @@
 -------
 Uma jornada para quem não tem medo do desconhecido. O caminho para o Mundo Invertido é incerto, repleto de obstáculos e perigos. Porém, a recompensa é grande: salvar Hawkings e o mundo todo das garras de Vecna. Você está preparado(a)? 
 
+Figma link: https://www.figma.com/design/I3Q42CcVUziRN3iMfTrbfb/Stranger-Things?node-id=0-1&node-type=canvas&t=7uW6FbjPCh2xFpt6-0
+
 ## ▶️ Semana Front-end
 - [Live Dia 01](https://www.youtube.com/watch?v=FZgIQUDn8zo)
 - [Live Dia 02](https://www.youtube.com/watch?v=WHbhgxJLbN4)
